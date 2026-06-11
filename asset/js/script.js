@@ -29,16 +29,14 @@ $(function() {
 if (window.matchMedia( "(max-width: 768px)" ).matches) {
 $(function() {
 				var array = [
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main01_sp.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main02_sp.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main03_sp.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main04_sp.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main05_sp.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main06_sp.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main07_sp.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main08_sp.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main09_sp.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main10_sp.jpg",
+				"https://sunday-sunday.github.io/2026ss/asset/images/main01_sp.jpg",
+				"https://sunday-sunday.github.io/2026ss/asset/images/main02_sp.jpg",
+				"https://sunday-sunday.github.io/2026ss/asset/images/main03_sp.jpg",
+				"https://sunday-sunday.github.io/2026ss/asset/images/main04_sp.jpg",
+				"https://sunday-sunday.github.io/2026ss/asset/images/main05_sp.jpg",
+				"https://sunday-sunday.github.io/2026ss/asset/images/main06_sp.jpg",
+				"https://sunday-sunday.github.io/2026ss/asset/images/main07_sp.jpg",
+				"https://sunday-sunday.github.io/2026ss/asset/images/main08_sp.jpg",
 				];
 		
 				var l = array.length;
@@ -49,16 +47,14 @@ $(function() {
 } else {
 $(function() {
 				var array = [
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main01.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main02.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main03.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main04.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main05.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main06.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main07.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main08.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main09.jpg",
-				"https://feature-tool.bcg.staff-start.com/assets/uploads/202506/c189b0c3-04c4-43cb-ab16-f6888a14a427/asset/images/main10.jpg",
+				"https://sunday-sunday.github.io/2026ss/asset/images/main01.jpg",
+				"https://sunday-sunday.github.io/2026ss/asset/images/main02.jpg",
+				"https://sunday-sunday.github.io/2026ss/asset/images/main03.jpg",
+				"https://sunday-sunday.github.io/2026ss/asset/images/main04.jpg",
+				"https://sunday-sunday.github.io/2026ss/asset/images/main05.jpg",
+				"https://sunday-sunday.github.io/2026ss/asset/images/main06.jpg",
+				"https://sunday-sunday.github.io/2026ss/asset/images/main07.jpg",
+				"https://sunday-sunday.github.io/2026ss/asset/images/main08.jpg",
 				];
 		
 				var l = array.length;
