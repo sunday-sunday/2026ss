@@ -1034,7 +1034,6 @@ text-transform: lowercase;
 }
 .feature_contents .style_02 .sub_cut3 {
   margin-top: 50px;
-  margin-left: -50px;
 }
 
 .feature_contents .style_02 .sub_cut4 .img {
@@ -1042,7 +1041,6 @@ text-transform: lowercase;
 }
 .feature_contents .style_02 .sub_cut4 {
   margin-top: 50px;
-  margin-left: 30px;
 }
 
 .feature_contents .style_02 .sub_cut5 .img {
@@ -1297,7 +1295,88 @@ text-transform: lowercase;
 }
 
 
+/* 202606 style07 */
 
+.feature_contents .style_07 {
+  position: relative;
+}
+
+.feature_contents .style_07 .main_cut_box .main_cut {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media screen and (max-width: 1000px) {
+  .feature_contents .style_07 .main_cut_box .main_cut {
+    width: 90%;
+  }
+}
+
+.feature_contents .style_07 .main_cut_box .main_cut .img {
+  background-image: url(../images/07_1.jpg);
+}
+
+.feature_contents .style_07 .main_cut_box .credit_list {
+  float: left;
+  margin-top: -40%;
+  margin-left: 73%;
+}
+@media screen and (max-width: 480px) {
+  .feature_contents .style_07 .main_cut_box .credit_list {
+    width: 216px;
+    margin-top: 0;
+    margin-left: 20px;
+  }
+}
+
+.feature_contents .style_07 .sub_cut2 .img {
+  background-image: url(../images/07_2.jpg);
+}
+.feature_contents .style_07 .sub_cut2 {
+  margin-top: 50px;
+}
+
+.feature_contents .style_07 .sub_cut3 .img {
+  background-image: url(../images/07_3.jpg);
+}
+.feature_contents .style_07 .sub_cut3 {
+  margin-top: 50px;
+}
+
+.feature_contents .style_07 .sub_cut4 .img {
+  background-image: url(../images/07_4.jpg);
+}
+.feature_contents .style_07 .sub_cut4 {
+  margin-top: 50px;
+}
+
+.feature_contents .style_07 .sub_cut5 .img {
+  background-image: url(../images/07_5.jpg);
+}
+.feature_contents .style_07 .sub_cut5 {
+  margin-top: 50px;
+}
+
+.feature_contents .style_07 .sub_cut6 .img {
+  background-image: url(../images/07_6.jpg);
+}
+.feature_contents .style_07 .sub_cut6 {
+  margin-top: 50px;
+}
+
+.feature_contents .style_07 .sub_cut7 .img {
+  background-image: url(../images/07_7.jpg);
+}
+.feature_contents .style_07 .sub_cut7 {
+  margin-top: 50px;
+}
+
+.feature_contents .style_07 .sub_cut8 .img {
+  background-image: url(../images/07_8.jpg);
+}
+.feature_contents .style_07 .sub_cut8 {
+  margin-top: 50px;
+}
 
 /* info */
 
