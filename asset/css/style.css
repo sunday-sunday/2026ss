@@ -28,7 +28,7 @@ time, mark, audio {
 	border: 0;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 13px;
+	font-size: 14px;
 	line-height: 1.9;
 	vertical-align: baseline;
 	-moz-box-sizing: border-box;
@@ -297,7 +297,7 @@ line-height: 1.8em;
   position: fixed;
   top: 20px;
   LEFT: 30px;
-  font-size: 15px;
+  font-size: 20px;
   z-index: 100;
 }
 
@@ -330,7 +330,7 @@ line-height: 1.8em;
 }
 
 .feature_contents .contents_inner .main_visual .text_box h1 {
-  font-size: 32px;
+  font-size: 35px;
   color: #fff;
   letter-spacing: 0.3em !important;
 line-height: 1.8em;
@@ -342,7 +342,7 @@ line-height: 1.8em;
 @media screen and (max-width: 480px)
  {
 	.feature_contents .contents_inner .main_visual .text_box h1 {
-    font-size: 28px;
+    font-size: 30px;
   letter-spacing: 0.3em !important;
 line-height: 1.8em;
   }
@@ -391,7 +391,7 @@ font-family: brandon-grotesque, sans-serif;
 font-style: bold;
 	font-weight: 700;
 	text-align: center;
-	font-size: 50px!important;
+	font-size: 55px!important;
 	line-height: 1.2em;
 	margin-bottom: 13px;
 	color: #000!important;
@@ -800,7 +800,7 @@ padding: 0 10px 4px 30px!important;
 color:#000;
   font-family: brandon-grotesque, sans-serif;
   font-weight: 700;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
 
 }
@@ -816,7 +816,7 @@ color:#000;
 	font-family: brandon-grotesque, sans-serif;
 	background-color: #000;
 	color: #fff;
-	font-size: 9px;
+	font-size: 12px;
 	line-height: 1;
 	padding: 3px 5px 2px 5px;
 	letter-spacing: 0.08em;
@@ -832,9 +832,9 @@ color:#000;
   }
 }
 
-.feature_contents .style_box .credit_list li .brand_name {
+.feature_contents .style_box .credit_list li {
 text-transform: lowercase;
-	font-size: 12px;
+	font-size: 14px;
 	color: #333;
 	line-height: 1.5em;
 	margin-top: 2px;
@@ -859,12 +859,13 @@ text-transform: lowercase;
   margin: 0 auto 90px;
   font-family:-apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", "Helvetica Neue", HelveticaNeue, YuGothic, "Yu Gothic Medium", "Yu Gothic", Verdana, Meiryo, sans-serif;
   margin-top: 30px;
-  font-size: 14px;
+  font-size: 15px;
   padding-left: 140px;
   padding-right: 260px;
 }
 @media screen and (max-width: 1000px) {
   .feature_contents .style_box p.caption {
+  margin-top: 20px;
     margin-bottom: 40px;
     width: 100%;
     min-width: 375px;
@@ -876,16 +877,14 @@ text-transform: lowercase;
   .feature_contents .style_box p.caption,
   .feature_contents .style_box p.caption.left,
   .feature_contents .style_box p.caption.right {
-    margin-top: 1em !important;
     padding-left: 12% !important;
     padding-right: 12% !important;
-    font-size: 13px;
+    font-size: 14px;
   }
 }
 
 
 .feature_contents .style_box p.caption.left {
-  margin-top: 40px;
   padding-left: 90px;
   padding-right: 310px;
 }
@@ -897,9 +896,9 @@ text-transform: lowercase;
 }
 
 .feature_contents .style_box p.caption.right {
-  margin-top: 40px;
-  padding-left: 190px;
-  padding-right: 190px;
+    padding-left: 190px;
+    padding-right: 190px;
+    padding-top: 30px;
 }
 @media screen and (max-width: 1000px) {
   .feature_contents .style_box p.caption.right {
